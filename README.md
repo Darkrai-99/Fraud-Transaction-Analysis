@@ -20,21 +20,22 @@ The goal of this project is to analyze a dataset of financial transactions and i
 
 | File                          | Description                                 |
 |------------------------------|---------------------------------------------|
-| `Fraud_Analysis.pbix`        | Power BI dashboard file (available as `.zip`) |
+| `Fraud_Analysis.pbix`        | Power BI dashboard file (download as `.zip`) |
+| `Fraud Analysis.pdf`         | PDF version of the dashboard and findings   |
 | `fraud_dataset.csv`          | Cleaned dataset used in the dashboard       |
 | `model_evaluation_summary.csv` | Model evaluation metrics (Precision, Recall, F1-Score) |
 | `README.md`                  | Project documentation                       |
 
 ---
 
-## Dashboard Download
+## Dashboard & Report Download
 
-Download the full Power BI dashboard from the link below:
+Download the full dashboard and report from the GitHub Releases section:
 
 **Releases Page**:  
 [https://github.com/Darkrai-99/Fraud-Transaction-Analysis/releases](https://github.com/Darkrai-99/Fraud-Transaction-Analysis/releases)
 
-Once downloaded, extract the `.zip` and open the `.pbix` file using Power BI Desktop.
+You will find both the `.pbix` file and the `Fraud Analysis.pdf` report in the downloadable zip.
 
 ---
 
@@ -58,15 +59,15 @@ Once downloaded, extract the `.zip` and open the `.pbix` file using Power BI Des
 
 ## How to Use
 
-1. Download the dashboard `.zip` file from the [Releases](https://github.com/Darkrai-99/Fraud-Transaction-Analysis/releases).
-2. Extract the `.pbix` file.
-3. Open in Power BI Desktop.
-4. Explore visuals and interact with filters to analyze results.
+1. Go to the [Releases](https://github.com/Darkrai-99/Fraud-Transaction-Analysis/releases) section.
+2. Download and extract the `.zip` file.
+3. Open `Fraud_Analysis.pbix` using Power BI Desktop to explore the dashboard.
+4. Open `Fraud Analysis.pdf` to view a static summary of the dashboard.
 
 ---
 
 ## Author
 
-Created by [Darkrai-99](https://github.com/Darkrai-99).  
-For feedback or contributions, feel free to open an issue or pull request.
+Created by [Darkrai-99](https://github.com/Darkrai-99)  
+For questions or suggestions, feel free to open an issue or pull request.
 
